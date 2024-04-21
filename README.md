@@ -1,4 +1,4 @@
-# Mac 개발환경 초기 세팅
+## Mac 개발환경 초기 세팅
 맥북 개발 초기 세팅 
 
 ## HomeBrew 설치
@@ -11,3 +11,10 @@ $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/
 (echo; echo 'eval "$(/opt/homebrew/bin/brew shellenv)"') >> /Users/channy/.zprofile
 
 eval "$(/opt/homebrew/bin/brew shellenv)"
+
+
+
+
+
+## 초기 세팅 참고자료
+https://yechan.blog/2
