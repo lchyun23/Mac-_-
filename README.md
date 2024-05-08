@@ -22,3 +22,4 @@ https://yechan.blog/2
 
 ## java 설치
 https://llighter.github.io/install-java-on-mac/
+https://willnfate.tistory.com/entry/MacOS%EC%97%90-Homebrew%EB%A1%9C-Java-11-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0
