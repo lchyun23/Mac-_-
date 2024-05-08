@@ -18,3 +18,7 @@ eval "$(/opt/homebrew/bin/brew shellenv)"
 
 ## 초기 세팅 참고자료
 https://yechan.blog/2
+
+
+## java 설치
+https://llighter.github.io/install-java-on-mac/
